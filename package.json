@@ -1,0 +1,12 @@
+{
+  "name": "snippets",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:cg27shokworks/snippets.git",
+  "author": "Carlos González <gcarloseduardo1@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.2.3",
+    "typescript": "^5.0.4"
+  }
+}
